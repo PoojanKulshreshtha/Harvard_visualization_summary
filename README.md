@@ -1,3 +1,2 @@
 # Harvard_visualization_summary
-Notes for The course
 THIS REPOSITORY HAS THE NOTES OF DATA VISUALIZATIOB BY POOJAN KULSHRESHTHA
